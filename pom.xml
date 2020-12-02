@@ -38,7 +38,7 @@
       
   <properties>
     <kite.version>[2.0.8,)</kite.version>
-    <kite.extras.version>[0.1.76,)</kite.extras.version>
+    <kite.extras.version>[0.1.78,)</kite.extras.version>
     <kite.framework.version>[1.0.15,)</kite.framework.version>
     
     <!-- Core dependencies -->
