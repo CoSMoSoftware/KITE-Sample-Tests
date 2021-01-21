@@ -10,9 +10,9 @@ import java.util.List;
 import org.openqa.selenium.JavascriptExecutor;
 
 import javax.json.JsonObject;
-import org.webrtc.kite.stats.RTCStatList;
-import org.webrtc.kite.stats.RTCStatMap;
-import org.webrtc.kite.stats.RTCStats;
+import org.webrtc.kite.stats.rtc.RTCStatList;
+import org.webrtc.kite.stats.rtc.RTCStatMap;
+import org.webrtc.kite.stats.rtc.RTCStats;
 
 import static org.webrtc.kite.stats.StatsUtils.buildStatSummary;
 import static org.webrtc.kite.stats.StatsUtils.getPCStatOvertime;
