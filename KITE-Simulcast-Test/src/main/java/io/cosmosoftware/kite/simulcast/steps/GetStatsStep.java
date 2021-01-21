@@ -9,8 +9,8 @@ import java.util.List;
 import org.openqa.selenium.WebDriver;
 
 import javax.json.JsonObject;
-import org.webrtc.kite.stats.RTCStatList;
-import org.webrtc.kite.stats.RTCStats;
+import org.webrtc.kite.stats.rtc.RTCStatList;
+import org.webrtc.kite.stats.rtc.RTCStats;
 
 import static org.webrtc.kite.stats.StatsUtils.getPCStatOvertime;
 import static org.webrtc.kite.stats.StatsUtils.transformToJson;

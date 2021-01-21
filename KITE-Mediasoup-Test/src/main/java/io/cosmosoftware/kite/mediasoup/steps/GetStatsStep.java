@@ -6,9 +6,9 @@ import io.cosmosoftware.kite.report.Reporter;
 import io.cosmosoftware.kite.report.Status;
 import io.cosmosoftware.kite.steps.TestStep;
 import java.util.LinkedHashMap;
-import org.webrtc.kite.stats.RTCStatList;
-import org.webrtc.kite.stats.RTCStatMap;
-import org.webrtc.kite.stats.RTCStats;
+import org.webrtc.kite.stats.rtc.RTCStatList;
+import org.webrtc.kite.stats.rtc.RTCStatMap;
+import org.webrtc.kite.stats.rtc.RTCStats;
 import org.webrtc.kite.stats.StatsUtils;
 
 import javax.json.Json;
